@@ -7,18 +7,20 @@
 </template>
 
 <script>
-import FlowMeterCard from "./FlowMeterCard.vue";
-import BusyModal from "@/@leecom/components/busy-modal/BusyModal.vue";
+// import FlowMeterCard from "./FlowMeterCard.vue";
+// import BusyModal from "@/@leecom/components/busy-modal/BusyModal.vue";
 import SummaryStoreModule from "./SummaryStoreModule";
 import store from "@/store";
 import { ref, onUnmounted, computed, watch } from "@vue/composition-api";
 import TankLevelsTable from "./TankLevelsTable.vue";
+// import PondsDetails from "./PondsDetails.vue";
 
 export default {
   components: {
     TankLevelsTable,
-    BusyModal,
-    FlowMeterCard,
+    // PondsDetails,
+    // BusyModal,
+    // FlowMeterCard,
   },
   setup() {
     const MODULE_NAME = "summaryModule";
