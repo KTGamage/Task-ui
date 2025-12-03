@@ -9,7 +9,7 @@
       </div>
     </div> -->
     <div class="flex flex-col md:flex-col w-full justify-center items-center">
-      <h3 class="text-center mb-0">STATUS OF EFFLUENT PONDS AND UNLOADING TRACTORS</h3>
+      <h2 class="text-center mb-0 font-medium"> STATUS OF EFFLUENT PONDS AND UNLOADING TRACTORS</h2>
       <span
         class="flex flex-row md:flex-row w-full justify-center items-center mt-0.5"
       >
