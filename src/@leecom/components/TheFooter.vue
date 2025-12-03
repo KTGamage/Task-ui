@@ -19,7 +19,7 @@
       class="leecom-logo inline-block"
       :src="require('@/assets/images/logo/leecom-logo.png')"
     > -->
-    <span class="relative text-center inline-block ml-1"> v{{ version }} </span>
+    <!-- <span class="relative text-center inline-block ml-1"> v{{ version }} </span> -->
   </footer>
 </template>
 
